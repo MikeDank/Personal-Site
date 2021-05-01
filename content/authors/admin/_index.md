@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael Dankanich
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: co-founder Non-Fungible Corp.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: The University of Iowa (undergraduate)
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include entreprenuership and distributed and distributed computing. 
 
 # Interests to show in About widget
 interests:
