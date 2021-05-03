@@ -6,55 +6,46 @@ title: Michael Dankanich
 superuser: true
 
 # Role/position/tagline
-role: co-founder Non-Fungible Corp.
+role: co-founder & CEO Non-Fungible Corp.
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The University of Iowa (undergraduate)
-  url: https://www.stanford.edu/
+  url: https://tippie.uiowa.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include entreprenuership and distributed and distributed computing. 
+bio: My interests include entreprenuership and distributed computing. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Computing
+- Knowledge Graphs
+- Cryptography
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BBA in Economics
+    institution: The University of Iowa
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:michael-dankanich@uiowa.edu" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:michael-dankanich@uiowa.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/mikedankanich
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MikeDank
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/michael-dankanich/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michael Dankanich is a recent graduate of the Tippie College of Business at The University of Iowa. His research interests include distributed computing, econometrics, and embedded systems. He currently leads The Non-Fungible Corporation, which develops identity verification software for blockchain-based digital assets, enterprise analytic tools, and embedded blockchain hardware systems.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
