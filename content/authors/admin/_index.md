@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Michael Dankanich is a recent graduate of the Tippie College of Business at The University of Iowa. His research interests include distributed computing, econometrics, and embedded systems. He currently leads The Non-Fungible Corporation, which develops identity verification software for blockchain-based digital assets, enterprise analytic tools, and embedded blockchain hardware systems.
+Michael Dankanich is an undergraduate student at the Tippie College of Business, part of The University of Iowa. His research interests include distributed computing, econometrics, and embedded systems. He currently leads The Non-Fungible Corporation, which develops identity verification software for blockchain-based digital assets, enterprise analytic tools, and embedded blockchain hardware systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Michael's personal interest include sailing and swimming in Lake Michigan, collecting physical and digital art, and designing and implementing audiovisual systems at live concerts and festivals. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
