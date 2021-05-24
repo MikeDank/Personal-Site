@@ -1,12 +1,12 @@
 ---
-title: Wubbullz Audio Wordpress Website
-summary: One of the first websites I made with wordpress for my friend's sound system company. 
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://wubbullzaudio.com"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/mikedankanich
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,11 +30,9 @@ url_video: ""
 slides: example
 ---
 
-Wubbullz Audio is my friend's sound system company, and one of the first "commercial" website projects I've ever worked on. wubbullzaudio.com was built using wordpress.org and the elementor page builder. The choice to use a page builder was made so that anyone could make simple edits to the site in the future without much technical guidance or any web development experience. Any website performance sacrifices stemming from the page builder are worth it because the site doesn't receive very much traffic, and mostly serves as a reference for word of mouth customers to check out after meeting the company owner. Using a page builder was a fantastic introduction to web design for me and I remember really enjoing being able to publish a website so quickly.  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-A majority of the photos and videos you might find on wubbullzaudio.com were also captured and edited by yours truly. I was the first audio engineer assitant (or A2 in industry jargon) for Wubbullz Audio and helped my friend get the business running after he launched it. I picked up a DSLR camera along the way and captured a lot of photos and videos of DJs, visual artists, fans, friends, and everything in between as we traveled city-to-city running sound for DJs in the electronic and dubstep genres. Our very first show was in Pittsburgh back in January 2019 with dubstep heavyweight Caspa headlining the rave. Since then, we've traveled to a handful of other states to run the main stages of different concerts and festivals, up until getting shut down during COVID-19. 
-
-One of the reasons I've been so eager to help my friend with his sound sytem in all these different cities is the sheer fun of engineering an experience with such high sonic fidelity. Wubbullz Audio is one of few botique sound system rental companies that uses a system built by Hennessey Sound Design in Massachusetts. Nam et enim eleifend, laoreet sem sit amet elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
 Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
