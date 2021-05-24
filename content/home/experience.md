@@ -29,10 +29,7 @@ experience:
     date_start: '2020-04-01'
     date_end: 'Present'
     description: |2-
-        Responsibilities include:
-        Leading enterprise blockchain research and commercialization for experiential NFTs
-        
-        
+        Responsibilities include:        
         * Analysing
         * Modelling
         * Deploying
