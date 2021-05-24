@@ -23,13 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    company: Festplug
+    company_url: 'http://festplug.com'
+    location: Iowa City, IA
+    date_start: '2020-04-01'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
+        Leading enterprise blockchain research and commercialization for experiential NFTs
+        
         
         * Analysing
         * Modelling
