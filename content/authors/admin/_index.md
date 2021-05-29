@@ -6,11 +6,11 @@ title: Michael Dankanich
 superuser: true
 
 # Role/position/tagline
-role: co-founder & CEO Non-Fungible Corp.
+role: co-founder & CEO ERC Labs, Inc.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Iowa (undergraduate)
+- name: The University of Iowa 
   url: https://tippie.uiowa.edu
 
 # Short bio (displayed in user profile at end of posts)
